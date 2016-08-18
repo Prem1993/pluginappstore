@@ -13,42 +13,42 @@
 			"category": "Category 1",
 			"plugin_unique_id": "dq-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/data-quality",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/data-quality.git",
 			"name": "Data Quality",
 			"icon": "banking/customer_attrition/analytic.png"
 		}, {
 			"category": "Category 1",
 			"plugin_unique_id": "dir-monitoring-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/dirmon",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/dirmon.git",
 			"name": "Directory Monitoring",
 			"icon": "banking/next_best_offer/analytic.png"
 		}, {
 			"category": "Category 1",
 			"plugin_unique_id": "hive-gen-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/hive-datagen",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/hive-datagen.git",
 			"name": "Hive Datageneration",
 			"icon": "banking/reputation_management/analytic.png"
 		}, {
 			"category": "Category 1",
 			"plugin_unique_id": "spark-action-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/spark-action",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/spark-action.git",
 			"name": "Spark Action",
 			"icon": "banking/universal_persona/analytic.png"
 		}, {
 			"category": "Category 1",
 			"plugin_unique_id": "teradata-ingestion-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/teradata-ingestion",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/teradata-ingestion.git",
 			"name": "Teradata Ingestion",
 			"icon": "banking/client_life_time_value/analytic.png"
 		}, {
 			"category": "Category 1",
 			"plugin_unique_id": "td-query-action-1.0.0",
 			"description": "This application is about ",
-			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/teradata-queryexec",
+			"location": "https://github.com/bdrekapil/bdreplugins/tree/master/teradata-queryexec.git",
 			"name": "Teradata Quary Execution",
 			"icon": "banking/fraud_prediction/analytic.png"
 		}]
